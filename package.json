@@ -1,0 +1,14 @@
+{
+  "name": "resilibot",
+  "version": "1.0.0",
+  "description": "Autonomous AWS-powered incident response agent",
+  "scripts": {
+    "deploy": "cd infrastructure && cdk deploy --all",
+    "destroy": "cd infrastructure && cdk destroy --all",
+    "test": "cd backend && pytest tests/",
+    "frontend": "cd frontend && npm start"
+  },
+  "keywords": ["aws", "bedrock", "incident-response", "automation"],
+  "author": "Hosni Belfeki <belfkihosni@gmail.com>",
+  "license": "MIT"
+}
