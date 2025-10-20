@@ -14,11 +14,14 @@
 
   > An autonomous AWS-powered incident response agent that reduces MTTR by 96% through intelligent detection, diagnosis, and safe remediation of infrastructure issues.
 
-  <a href="https://www.youtube.com/watch?v=8ycPNnHmc1E">
-    <img src="docs/images/demo-video-thumbnail.png" alt="Watch Demo Video" width="600px"/>
-    <br/>
-    🎥 Watch Demo Video
-  </a>
+## 🎬 Watch the Demo
+
+Click below to watch the full demo video on YouTube 👇  
+
+[![🎥 Watch Demo Video](https://img.youtube.com/vi/8ycPNnHmc1E/hqdefault.jpg)](https://www.youtube.com/watch?v=8ycPNnHmc1E)
+
+
+
 </div>
 
 **Built for AWS AI Agent Hackathon 2025** 🚀
@@ -44,9 +47,6 @@ ResiliBot is a production-ready autonomous agent that revolutionizes incident re
     - 🎨 **Modern Dashboard** - Next.js 15 + React 19 real-time UI with agent reasoning visualization
   </div>
   
-  <div>
-    <img src="docs/images/dashboard-overview.png" alt="ResiliBot Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-  </div>
 </div>
 
 ### Key Metrics
@@ -601,52 +601,42 @@ Result: Prevented outage before it occurred!
 <div class="screenshot-grid">
   <div class="screenshot">
     <img src="screenshot/1.png" alt="Dashboard Overview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Main Dashboard Overview</em></p>
   </div>
   
   <div class="screenshot">
     <img src="screenshot/2.png" alt="Incident Management" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Incident Management Interface</em></p>
   </div>
   
   <div class="screenshot">
     <img src="screenshot/3.png" alt="Real-time Monitoring" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Real-time System Monitoring</em></p>
   </div>
   
   <div class="screenshot">
     <img src="screenshot/4.png" alt="Agent Analysis" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>AI Agent Analysis Dashboard</em></p>
   </div>
 
   <div class="screenshot">
     <img src="screenshot/5.png" alt="Incident Details" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Detailed Incident Analysis</em></p>
   </div>
 
   <div class="screenshot">
     <img src="screenshot/6.png" alt="Approval Workflow" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Human-in-the-Loop Approval Workflow</em></p>
   </div>
 
   <div class="screenshot">
     <img src="screenshot/7.png" alt="Metrics Overview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>System Metrics Overview</em></p>
   </div>
 
   <div class="screenshot">
     <img src="screenshot/8.png" alt="Alert Configuration" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Alert Configuration Panel</em></p>
   </div>
 
   <div class="screenshot">
     <img src="screenshot/9.png" alt="Historical Analysis" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Historical Incident Analysis</em></p>
   </div>
 
   <div class="screenshot">
     <img src="screenshot/10.png" alt="System Health" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
-    <p align="center"><em>Overall System Health Dashboard</em></p>
   </div>
 </div>
 
