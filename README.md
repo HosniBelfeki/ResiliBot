@@ -29,7 +29,11 @@ Click below to watch the full demo video on YouTube 👇
 
 </div>
 
-**Built for AWS AI Agent Hackathon 2025** 🚀
+<div align="center">
+  <a href="https://devpost.com/software/resilibot-autonomous-incident-response-agent">
+    <strong>View Submission</strong> | <strong>Built for the AWS AI Agent Hackathon 2025 🚀</strong>
+  </a>
+</div>
 
 ---
 
