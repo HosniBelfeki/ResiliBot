@@ -639,36 +639,6 @@ Result: Prevented outage before it occurred!
     <img src="screenshot/10.png" alt="System Health" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);" />
   </div>
 </div>
-
-<style>
-.screenshot-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin: 2rem 0;
-}
-
-.screenshot {
-  transition: transform 0.2s;
-}
-
-.screenshot:hover {
-  transform: scale(1.02);
-}
-
-.screenshot img {
-  width: 100%;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-}
-
-.screenshot p {
-  margin-top: 1rem;
-  text-align: center;
-  font-style: italic;
-}
-</style>
-
 ### Live Demo
 
 For a complete demonstration of ResiliBot's capabilities:
