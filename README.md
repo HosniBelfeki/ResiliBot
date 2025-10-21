@@ -874,7 +874,7 @@ copies or substantial portions of the Software.
 ### Author Information
 
 **Hosni Belfeki**  
-Full Stack Developer & AWS Architect
+Big Data & Data Analytics Student | Full Stack Developer
 
 - 📧 **Email**: belfkihosni@gmail.com
 - 💼 **LinkedIn**: [linkedin.com/in/hosnibelfeki](https://linkedin.com/in/hosnibelfeki/)
