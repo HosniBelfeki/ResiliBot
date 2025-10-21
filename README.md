@@ -1,6 +1,11 @@
+<div align="center">
+  <img src="https://github.com/HosniBelfeki/ResiliBot/blob/master/frontend/public/resilibot-logo.png?raw=true" alt="ResiliBot Logo" width="250"/>
+</div>
+<div align="center">
+
+
 # ResiliBot: Autonomous Incident Response Agent
 
-<div align="center">
   <img src="screenshot/1.png" alt="ResiliBot Dashboard" width="800px" style="border-radius: 12px; box-shadow: 0 8px 16px -2px rgba(0, 0, 0, 0.1);" />
   <br/><br/>
   
